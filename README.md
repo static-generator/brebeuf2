@@ -3,6 +3,6 @@
 >Nabua, Cam sur
 ---
 Favorite Basketball Player
--Kobe Bryant
--Ray Allen
--Steph Curry
+- Kobe Bryant
+- Ray Allen
+- Steph Curry
